@@ -18,12 +18,24 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
+  
+  const data  = new Date();
+
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en">
+      <body className='flex flex-col justify-start gap-4 p-20 items-center min-h-screen'>
+        
+        <header className="flex flex-col items-center">
+          <h1>React & Next.js</h1>
+        </header>
+        
+        <main className="bg-blue-200 p-5 rounded-2xl max-w-2xl min-h-[70vh]">
+          {children}
+        </main>
+        
+        <footer>DIW {data.getFullYear()}</footer>
+
+      </body>
     </html>
   );
 }
