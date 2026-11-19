@@ -1,0 +1,86 @@
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
+    "description": "Linguagem de marcação que define a estrutura e o conteúdo das páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Linguagem de estilos que define o aspeto das páginas: cores, tipos de letra e layout.",
+    "rating": 4
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwind.svg",
+    "description": "Framework de CSS com classes utilitárias aplicadas diretamente no HTML.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação que torna as páginas web interativas.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Extensão do JavaScript com tipos, verificados antes de o código correr.",
+    "rating": 4
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato de texto para guardar e trocar dados estruturados.",
+    "rating": 3
+  },
+  {
+    "title": "API RESTful",
+    "image": "api.svg",
+    "description": "Interface que permite a programas trocar dados através de pedidos HTTP.",
+    "rating": 4
+  },
+  {
+    "title": "Swagger",
+    "image": "swagger.svg",
+    "description": "Ferramenta para documentar e testar APIs no browser.",
+    "rating": 3
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma para alojar repositórios Git e colaborar em projetos.",
+    "rating": 5
+  },
+  {
+    "title": "Codespaces",
+    "image": "codespaces.svg",
+    "description": "Ambiente de desenvolvimento online do GitHub, com VS Code e terminal.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub Pages",
+    "image": "githubpages.svg",
+    "description": "Serviço do GitHub para publicar sites estáticos a partir de um repositório.",
+    "rating": 3
+  },
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca JavaScript para construir interfaces a partir de componentes.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework baseada em React com rotas por pastas e renderização no servidor.",
+    "rating": 5
+  },
+  {
+    "title": "Vercel",
+    "image": "vercel.svg",
+    "description": "Plataforma para publicar aplicações Next.js a partir do GitHub.",
+    "rating": 4
+  }
+]
