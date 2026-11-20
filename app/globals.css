@@ -32,10 +32,13 @@ h1 {
 
 h2 {
   font-weight: bold;
+  
+  color: black;
 }
 
 p {
   margin: 12px 0;
+  color: black;
 }
 
 ul {

@@ -32,6 +32,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <Link href="/">Intro</Link>
           <Link href="/sobre">Sobre</Link>
           <Link href= "/caracteristicas">Caracteristicas</Link>
+          <Link href= "/tecnologias">Tecnologias</Link>
           </nav>
         </header>
         

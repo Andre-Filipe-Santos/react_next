@@ -5,7 +5,7 @@ export default function page(){
         <ul>
             <li>React e Next.js revolucionaram a criação de Interfaces Web.</li>
             <li>São usados por empresas como Facebook, Netflix e AirBnB.</li>
-            <li>Dominar estas tecnologias abre muitas oportunidades.</li>
+            <li>Dominar estas tecnologias abre muitas oportunidades!</li>
         </ul>
         </>
     );
