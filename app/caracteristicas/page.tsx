@@ -14,7 +14,7 @@ export default function page() {
 
   return (
     <div>
-        <h2>Características do React e Next.js</h2>
+        <h2 className="text-2xl font-bold mb-6">Características do React e Next.js</h2>
         <ul>
             {/* porque fazer isto aqui e nao fora do return, modificar o array e inserir aqui */}
             {caracteristicas.map((caracteristica,i) => {
